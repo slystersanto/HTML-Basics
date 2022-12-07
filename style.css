@@ -1,0 +1,16 @@
+#home {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+    color: chartreuse
+}
+
+.forallcontent {
+    border: 1px solid red;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    background-color: blue;
+    color: white;
+}
